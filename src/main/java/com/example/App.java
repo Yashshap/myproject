@@ -1,5 +1,5 @@
 package com.example;
-
+#comment to check build
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.slf4j.Logger;

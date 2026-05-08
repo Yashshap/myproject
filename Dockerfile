@@ -2,7 +2,7 @@ FROM eclipse-temurin:8-jre-alpine
 
 EXPOSE 8080
 
-COPY COPY build/libs/*.jar /usr/app/app.jar
+COPY build/libs/*.jar /usr/app/app.jar
 
 WORKDIR /usr/app
 
